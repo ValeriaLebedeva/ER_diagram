@@ -1,1 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2022-10-26T22:34:56.784Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 OPR/91.0.4516.77" version="20.5.1" etag="rjpyqlDzNO0qWMyafVy8" type="github"><diagram id="XHOEVwnyWTeCvoNkJ-Xo">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-10-26T22:42:20.616Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 OPR/91.0.4516.77" etag="wAeGbkLJlTHVXShBU2BQ" version="20.5.1" type="github">
+  <diagram id="XHOEVwnyWTeCvoNkJ-Xo" name="Страница 1">
+    <mxGraphModel dx="690" dy="411" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="WQ4YvYCJKjrtq6efWlmo-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="WQ4YvYCJKjrtq6efWlmo-1" target="WQ4YvYCJKjrtq6efWlmo-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WQ4YvYCJKjrtq6efWlmo-1" value="пациент" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="60" y="160" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WQ4YvYCJKjrtq6efWlmo-2" value="талон" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="610" y="160" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WQ4YvYCJKjrtq6efWlmo-3" value="врач" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="500" y="80" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WQ4YvYCJKjrtq6efWlmo-4" value="поликлиника" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="320" y="160" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WQ4YvYCJKjrtq6efWlmo-5" value="диагноз" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="640" y="80" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WQ4YvYCJKjrtq6efWlmo-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="WQ4YvYCJKjrtq6efWlmo-12" target="WQ4YvYCJKjrtq6efWlmo-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WQ4YvYCJKjrtq6efWlmo-12" value="приходит в поликлинику" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="180" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WQ4YvYCJKjrtq6efWlmo-13" value="Relationship" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="460" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
